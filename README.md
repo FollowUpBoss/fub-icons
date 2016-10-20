@@ -43,3 +43,10 @@ Author: GitHub
 Source: https://github.com/primer/octicons/
 
 License: MIT License
+
+### Glyphish 3 (used in iOS)
+Author: Joseph Wain
+
+Source: http://www.glyphish.com
+
+License: You're free to use these icons for commercial and non-commercial purposes, for yourself, your company and your clients, and to edit, remix and otherwise modify them without attribution.
