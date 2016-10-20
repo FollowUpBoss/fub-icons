@@ -2,6 +2,17 @@
 
 This will house all the icons libraries we use. That doesn't mean we use all the icons, rather it just makes sure we all have access to the icons we can use.
 
+**NOTE:** Please do not use Font Awesome anymore
+
+[List of icons FUB2 uses](dantomco.followupboss.com/2/style)
+
+
+### Task List
+- [ ] Create an icomoon library that has specifically the icons we use for easy export.
+- [ ] Create a list of icons iOS uses
+- [ ] Create a list of icons android uses.
+
+
 
 ### Ikons
 Author: Piotr Adam Kwiatkowski
