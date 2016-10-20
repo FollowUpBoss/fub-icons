@@ -11,7 +11,7 @@ This will house all the icons libraries we use. That doesn't mean we use all the
 - [ ] Create an icomoon library that has specifically the icons we use for easy export.
 - [ ] Create a list of icons iOS uses
 - [ ] Create a list of icons android uses.
-
+- [ ] Add in FUB2 custom Icons
 
 
 ### Ikons
